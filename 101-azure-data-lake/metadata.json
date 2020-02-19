@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Azure Data lake Gen 1 service",
+  "description": "This template creates an Azure Data lake Gen 1 Pay as you go service",
+  "summary": "Provision an Azure Data Lake service",
+  "githubUsername": "VaijanathB",
+  "dateUpdated": "2020-02-04"
+}
+
+
